@@ -1,0 +1,8 @@
+INTEGER a
+LET a=8*2 
+PRINTLN a
+INTEGER b,c
+INPUT b,c
+LET b=b*c
+PRINTLN b
+END
